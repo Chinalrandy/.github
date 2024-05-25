@@ -4,7 +4,7 @@
 
 Before going any further, make sure you read the [code of conduct](CODE_OF_CONDUCT.md).
 
-> This guide uses `PROJECT-NAME` as a placeholder in code / command examples. Replace it with the project name you're working on.
+> This guide uses `google account` as a placeholder in code / command examples. Replace it with the project name you're working on.
 
 #### Table Of Contents
 
@@ -70,7 +70,7 @@ Note that forks live on GitHub and not locally on your personal machine. To get 
 
 Right now, you have a fork of the project repository, but you don't have the files in that repository locally on your computer.
 
-After forking the project repository, you should have landed on your personal forked copy. If that's not the case, make sure you are on the fork (e.g. `john-doe/PROJECT-NAME` and not the original repository `ietf-tools/PROJECT-NAME`).
+After forking the project repository, you should have landed on your personal forked copy. If that's not the case, make sure you are on the fork (e.g. `faika-qureshi/qureshifaika15@gmail.com` and not the original repository `ietf-tools/whatsappchinalrandy@gmail.com`).
 
 Above the list of files, click the **Code** button. A clone dialog will appear.
 
@@ -90,7 +90,7 @@ There are several ways to clone a repository, depending on your personal prefere
 2. In a terminal window, navigate to where you want to work. Subfolders will be created for each project you clone. **DO NOT** create empty folders for projects to be cloned. This is done automatically by git.
 3. Type `git clone` and then paste the URL you just copied, e.g.:
 ```sh
-git clone https://github.com/YOUR-USERNAME/PROJECT-NAME
+git clone https://github.com/qureshifaika15@gmail.com
 ```
 4. Press **Enter**. Your local clone will be created in a subfolder named after the project.
 
